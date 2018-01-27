@@ -3,8 +3,7 @@ layout: single
 permalink: /
 author_profile: true
 ---
-
-# Hello, ChickTech!!!
+# Hello, ChickTech!
 Thanks for coming.
 ### All About Me
 My name is Riley Price. I am student at Apex Friendship High School.
