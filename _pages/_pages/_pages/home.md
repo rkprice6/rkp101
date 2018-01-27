@@ -4,5 +4,4 @@ permalink: /
 ---
 
 # Hello, ChickTech!!!
-
 ### All About Me
