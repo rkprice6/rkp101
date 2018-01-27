@@ -5,5 +5,5 @@ author_profile: true
 ---
 # Hello, Welcome to Ri's Life!!
 ~The world spins on my finger tip~
-### All About Me
-My name is Riley Price. I am student at Apex Friendship High School.
+### Favorite Life Quote
+"Be fearless in the pursuit of what sets your soul on fire"
