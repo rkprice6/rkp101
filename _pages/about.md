@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 ## All About Me
-I was born in July of 2001. I am a student at Apex Friendship High School. In love with volleyball, dogs, and shoes. 
+Most people call me Ri. I was born in July of 2001. I am a student at Apex Friendship High School. In love with volleyball, dogs, and shoes. Spend most of my time with family and friends. 
