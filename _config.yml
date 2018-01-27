@@ -1,3 +1,8 @@
 remote_theme: mmistakes/minimal-mistakes
 title: rkp101
 include: ["_pages"]
+
+author:
+  name: "Riley Price"
+  avatar: "/assets/profile.jpg"
+  bio: "Just an average person"
