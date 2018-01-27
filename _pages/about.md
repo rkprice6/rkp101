@@ -3,7 +3,7 @@ layout: single
 permalink: /about/
 title: About
 author_profile: true
-img: .jpg
+img: IMG_1981.jpg
 ---
 
 ## All About Me
